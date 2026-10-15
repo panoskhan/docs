@@ -1,5 +1,7 @@
 # Mintlify Starter Kit
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23405111.svg)](https://doi.org/10.5281/zenodo.23405111)
+
 Use the starter kit to get your docs deployed and ready to customize.
 
 Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
